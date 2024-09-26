@@ -110,7 +110,7 @@ namespace BAMS
                         break;
 
                     case 5:
-                        Console.WriteLine("All accounts and account holders:");
+                        Console.WriteLine("All accounts and account holders: ");
                         bank.DisplayAllAccounts();
                         break;
                     case 6:
